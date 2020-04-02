@@ -1,5 +1,8 @@
 # ros2_smartphone_teleop
 ROS2 Smartphone Teleop Package
+This packages allows you to remote control your robot's mobile base.
+Uses hand gustures to control the robot.
+A simple wireless solution test robots. 
 
 # 1. Build Instrcutions
  ```
@@ -19,7 +22,7 @@ ROS2 Smartphone Teleop Package
 - ## 2.2 Step 3 Smartphone App
   - Install and Start [HyperIMU](https://play.google.com/store/apps/details?id=com.ianovir.hyper_imu&hl=en_US) on your phone.
   
-  Warning: `Make sure your phone is coneected to the same network as your robot.`
+  Warning: Make sure your phone is coneected to the same network as your robot.
   
   - Enable accelerometer sensor in the app.
   
