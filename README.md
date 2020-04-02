@@ -11,7 +11,7 @@ Link to the project video: https://www.linkedin.com/embed/feed/update/urn:li:ugc
  source /opt/ros/<ros2_distro>/setup.bash
  cd <your_ros2_ws>/
  git clone https://github.com/mlherd/ros2_smartphone_teleop.git
- cd smartphone_teleop
+ cd ros2_smartphone_teleop
  colcon build --sysmlink-install
  source install/setup.bash
  ```
