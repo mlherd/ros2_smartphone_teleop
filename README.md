@@ -24,7 +24,15 @@ A simple wireless solution test robots.
   
   Warning: Make sure your phone is coneected to the same network as your robot.
   
-  - Enable accelerometer sensor in the app.
+  - Enable accelerometer sensor in the app. `sensorlist->accelerometer`
+  
+  - Set the data stream protocol to UDP `settings->stream protocal`
+  
+  - set sampling rate to 50ms. `settings->sample rate (ms)`
+  
+  - set server IP adrees to your robots or host computer IP address `settings->server ip address
+  
+  - set server port number to 5000 `settings->server port number`
   
   - Start streaming data
 
@@ -35,5 +43,3 @@ A simple wireless solution test robots.
   - ## 3.1.1 Published Topics
     - cmd_vel ([geometry_msgs/Twist](http://docs.ros.org/api/geometry_msgs/html/msg/Twist.html))
       - A stream of velocity commands meant for execution by a mobile base.
-
-
