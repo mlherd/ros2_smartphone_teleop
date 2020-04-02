@@ -2,7 +2,7 @@
 ROS2 Smartphone Teleop Package
 This packages allows you to remote control your robot's mobile base.
 Uses hand gustures to control the robot.
-A simple wireless solution test robots. Tested with ROS2 Eloquen.
+A simple wireless solution test robots. Tested with ROS2 Eloquent.
 
 # 1.Build Instructions
  ```
