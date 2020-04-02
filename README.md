@@ -4,7 +4,7 @@ This packages allows you to remote control your robot's mobile base.
 Uses hand gustures to control the robot.
 A simple wireless solution test robots. 
 
-# 1. Build Instrcutions
+# 1. Build Instructions
  ```
  source /opt/ros/<ros2_distro>/setup.bash
  cd <your_ros2_ws>/
