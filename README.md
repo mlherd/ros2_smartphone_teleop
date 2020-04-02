@@ -30,7 +30,7 @@ A simple wireless solution test robots.
   
   - set sampling rate to 50ms. `settings->sample rate (ms)`
   
-  - set server IP adrees to your robots or host computer IP address `settings->server ip address
+  - set server IP adrees to your robots or host computer IP address `settings->server ip address`
   
   - set server port number to 5000 `settings->server port number`
   
