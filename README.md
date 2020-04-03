@@ -18,7 +18,7 @@ Link to the project video: https://www.linkedin.com/embed/feed/update/urn:li:ugc
  
 # 2.Usage
 - ## 2.1 Robot Bringup
-  Bring up your robot in phsical robot or simulation. Make sure it subscribes to `/cmd_vel` topic.
+  Bring up your physical robot or simulation. Make sure it subscribes to `/cmd_vel` topic.
 - ## 2.2 Run smartphone_teleop
   ```ros2 run ros2 run smartphone_teleop smartphone_teleop```
 - ## 2.2 Step 3 Smartphone App
