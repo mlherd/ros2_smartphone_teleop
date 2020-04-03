@@ -22,9 +22,9 @@ Link to the project video: https://www.linkedin.com/embed/feed/update/urn:li:ugc
 - ## 2.2 Run smartphone_teleop
   ```ros2 run ros2 run smartphone_teleop smartphone_teleop```
 - ## 2.2 Step 3 Smartphone App
-  - Install and Start [HyperIMU](https://play.google.com/store/apps/details?id=com.ianovir.hyper_imu&hl=en_US) on your phone.
+  - Install and launch [HyperIMU](https://play.google.com/store/apps/details?id=com.ianovir.hyper_imu&hl=en_US) on your phone.
   
-  Warning: Make sure your phone is coneected to the same network as your robot.
+  Warning: Make sure your phone is connected to the same network as your robot.
   
   - Enable accelerometer sensor in the app. `sensorlist->accelerometer`
   
