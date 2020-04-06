@@ -6,6 +6,11 @@ A simple wireless solution test robots. Tested with ROS2 Eloquent.
 
 Link to the project video: https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6651575595417370624
 
+# Demo:
+
+<img src="demo.gif" alt="" width="600">
+
+
 # 1.Build Instructions
  ```
  source /opt/ros/<ros2_distro>/setup.bash
